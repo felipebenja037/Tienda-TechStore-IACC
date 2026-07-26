@@ -44,6 +44,16 @@ $_SESSION["carrito"] = [];
 
  <h1>✅ Compra confirmada</h1>
 
+ <h3>Estado del pedido</h3>
+
+<p>
+    🟢 Pedido registrado correctamente.
+</p>
+
+<p>
+    Su pedido será preparado para su despacho y posteriormente enviado a la dirección registrada.
+</p>
+
 <p>
 
 Gracias por comprar en
