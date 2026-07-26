@@ -51,8 +51,10 @@ $_SESSION["carrito"] = [];
 </p>
 
 <p>
-    Su pedido será preparado para su despacho y posteriormente enviado a la dirección registrada.
+    Su pedido será preparado para su despacho y enviado a la dirección registrada.
 </p>
+
+<p><strong>Fecha estimada de despacho:</strong> 24 a 48 horas hábiles.</p>
 
 <p>
 
